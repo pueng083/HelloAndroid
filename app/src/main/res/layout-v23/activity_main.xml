@@ -24,7 +24,6 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="123456"
         android:id="@+id/digit_text_view"
         android:background="#dd1111"
         android:textColor="#ffee00"
